@@ -1,5 +1,5 @@
-def request_each_word(x)
-  x.reverse
+def reverse_each_word(word)
+  word.reverse
 end 
 
 # def request_each_word(x)
